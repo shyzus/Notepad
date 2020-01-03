@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notepad Kotlin</string>
+    <string name="last_updated" formatted="true">Last updated: %s</string>
+</resources>
